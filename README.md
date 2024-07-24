@@ -1,4 +1,4 @@
-# JoVision Javascript Tasks
+# JoVision Training Tasks (JavaScript/HTML)
 
 ## Task 1
 Create a GitHub account, create a repository called `JoVision Javascript tasks`, and push it to your account.
